@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c9ogX+bIfxQ2mKn0m9q/1kgo1TvwawDS0YJiKO01aEI=",
+  "Hash": "tyhTB5VMJS97JlADXU0H1L89Cyvkv339vrsFvU4pC5M=",
   "Source": "ProyectoFinalSeguridadAR.Server",
   "BasePath": "_content/ProyectoFinalSeguridadAR.Server",
   "Mode": "Default",
@@ -114,23 +114,6 @@
       "OriginalItemSpec": "C:\\Users\\arosales\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.23\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
-      "Identity": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
-      "SourceId": "ProyectoFinalSeguridadAR.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "native",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\arosales\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.23\\runtimes\\browser-wasm\\native\\icudt.dat"
-    },
-    {
       "Identity": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "ProyectoFinalSeguridadAR.Client",
       "SourceType": "Project",
@@ -180,6 +163,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\arosales\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.23\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+    },
+    {
+      "Identity": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
+      "SourceId": "ProyectoFinalSeguridadAR.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt.dat",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "native",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\arosales\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.23\\runtimes\\browser-wasm\\native\\icudt.dat"
     },
     {
       "Identity": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
@@ -6880,6 +6880,23 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "ProyectoFinalSeguridadAR.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
       "Identity": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "ProyectoFinalSeguridadAR.Client",
       "SourceType": "Project",
@@ -6980,23 +6997,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
-    },
-    {
-      "Identity": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "ProyectoFinalSeguridadAR.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",

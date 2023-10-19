@@ -1,0 +1,13 @@
+{
+rC:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\Program.csutf-8É
+zC:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\WeatherForecast.csutf-8≥
+ßC:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8¥
+®C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Client.AssemblyInfo.csutf-8Ä
+uMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\App_razor.g.csutf-8ä
+Microsoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Pages_Counter_razor.g.csutf-8ç
+ÅMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Pages_FetchData_razor.g.csutf-8à
+}Microsoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Pages_Index_razor.g.csutf-8ë
+ÖMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Shared_SurveyPrompt_razor.g.csutf-8Ö
+zMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\_Imports_razor.g.csutf-8è
+ÉMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Shared_MainLayout_razor.g.csutf-8å
+ÄMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Shared_NavMenu_razor.g.csutf-8
