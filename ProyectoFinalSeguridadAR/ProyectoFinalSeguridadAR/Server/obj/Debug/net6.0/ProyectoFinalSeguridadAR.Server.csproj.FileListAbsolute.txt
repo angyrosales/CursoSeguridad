@@ -26,9 +26,7 @@ C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\Proyecto
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\bin\Debug\net6.0\ProyectoFinalSeguridadAR.Client.dll
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\bin\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.dll
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\bin\Debug\net6.0\ProyectoFinalSeguridadAR.Client.pdb
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\bin\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.pdb
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.csproj.AssemblyReference.cache
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.AssemblyInfoInputs.cache

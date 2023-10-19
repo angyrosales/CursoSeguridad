@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using ProyectoFinalSeguridadAR.Shared;
+using ProyectoFinalSeguridadAR.Client;
 
 namespace ProyectoFinalSeguridadAR.Server.Controllers
 {

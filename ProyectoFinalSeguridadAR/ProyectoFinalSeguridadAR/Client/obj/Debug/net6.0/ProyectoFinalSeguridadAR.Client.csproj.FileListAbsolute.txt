@@ -38,8 +38,6 @@ C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\Proyecto
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\ProyectoFinalSeguridadAR.Client.dll
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\ProyectoFinalSeguridadAR.Client.pdb
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\ProyectoFinalSeguridadAR.Shared.dll
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\ProyectoFinalSeguridadAR.Shared.pdb
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
@@ -265,7 +263,6 @@ C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\Proyecto
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\ProyectoFinalSeguridadAR.Shared.dll.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
@@ -315,7 +312,6 @@ C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\Proyecto
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\ProyectoFinalSeguridadAR.Shared.pdb.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
@@ -600,8 +596,6 @@ C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\Proyecto
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\icudt_CJK.dat
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\icudt_EFIGS.dat
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\icudt_no_CJK.dat
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.dll
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\bin\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.pdb
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Client.csproj.AssemblyReference.cache
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Client.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Client.AssemblyInfoInputs.cache
@@ -804,8 +798,6 @@ C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\Proyecto
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\obj\Debug\net6.0\build-gz\J+tv83nG.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\obj\Debug\net6.0\build-gz\Q+6SzXh2.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\obj\Debug\net6.0\build-gz\zwFcKrUX.gz
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\obj\Debug\net6.0\build-gz\fRCJP8Vl.gz
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\obj\Debug\net6.0\build-gz\lsgL3XSh.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\obj\Debug\net6.0\build-gz\PwTXdPK2.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\obj\Debug\net6.0\build-gz\XakasDP1.gz
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Client\obj\Debug\net6.0\build-gz\RqYqR1Hs.gz

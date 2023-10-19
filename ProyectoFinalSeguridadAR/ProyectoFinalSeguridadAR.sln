@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33927.249
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFinalSeguridadAR.Server", "ProyectoFinalSeguridadAR\Server\ProyectoFinalSeguridadAR.Server.csproj", "{03FA2E49-CDAC-4849-95FA-571469F29AA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoFinalSeguridadAR.Server", "ProyectoFinalSeguridadAR\Server\ProyectoFinalSeguridadAR.Server.csproj", "{03FA2E49-CDAC-4849-95FA-571469F29AA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFinalSeguridadAR.Client", "ProyectoFinalSeguridadAR\Client\ProyectoFinalSeguridadAR.Client.csproj", "{685AA28D-5F6C-4BA8-80E6-076AAC320C66}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFinalSeguridadAR.Shared", "ProyectoFinalSeguridadAR\Shared\ProyectoFinalSeguridadAR.Shared.csproj", "{E81D6FD2-25E0-467C-B4D7-8DA059DE5636}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoFinalSeguridadAR.Client", "ProyectoFinalSeguridadAR\Client\ProyectoFinalSeguridadAR.Client.csproj", "{685AA28D-5F6C-4BA8-80E6-076AAC320C66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{685AA28D-5F6C-4BA8-80E6-076AAC320C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{685AA28D-5F6C-4BA8-80E6-076AAC320C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{685AA28D-5F6C-4BA8-80E6-076AAC320C66}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E81D6FD2-25E0-467C-B4D7-8DA059DE5636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E81D6FD2-25E0-467C-B4D7-8DA059DE5636}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E81D6FD2-25E0-467C-B4D7-8DA059DE5636}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E81D6FD2-25E0-467C-B4D7-8DA059DE5636}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -516,24 +516,13 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Components.WebAssembly": "6.0.23",
-          "ProyectoFinalSeguridadAR.Shared": "1.0.0"
+          "Microsoft.AspNetCore.Components.WebAssembly": "6.0.23"
         },
         "compile": {
           "bin/placeholder/ProyectoFinalSeguridadAR.Client.dll": {}
         },
         "runtime": {
           "bin/placeholder/ProyectoFinalSeguridadAR.Client.dll": {}
-        }
-      },
-      "ProyectoFinalSeguridadAR.Shared/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/ProyectoFinalSeguridadAR.Shared.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ProyectoFinalSeguridadAR.Shared.dll": {}
         }
       }
     }
@@ -1203,18 +1192,12 @@
       "type": "project",
       "path": "../Client/ProyectoFinalSeguridadAR.Client.csproj",
       "msbuildProject": "../Client/ProyectoFinalSeguridadAR.Client.csproj"
-    },
-    "ProyectoFinalSeguridadAR.Shared/1.0.0": {
-      "type": "project",
-      "path": "../Shared/ProyectoFinalSeguridadAR.Shared.csproj",
-      "msbuildProject": "../Shared/ProyectoFinalSeguridadAR.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 6.0.23",
-      "ProyectoFinalSeguridadAR.Client >= 1.0.0",
-      "ProyectoFinalSeguridadAR.Shared >= 1.0.0"
+      "ProyectoFinalSeguridadAR.Client >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1260,9 +1243,6 @@
           "projectReferences": {
             "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\ProyectoFinalSeguridadAR.Client.csproj": {
               "projectPath": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\ProyectoFinalSeguridadAR.Client.csproj"
-            },
-            "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj": {
-              "projectPath": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj"
             }
           }
         }
