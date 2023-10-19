@@ -1,0 +1,12 @@
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Shared\bin\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.deps.json
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Shared\bin\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.dll
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Shared\bin\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.pdb
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Shared\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.csproj.AssemblyReference.cache
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Shared\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Shared\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.AssemblyInfoInputs.cache
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Shared\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.AssemblyInfo.cs
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Shared\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.csproj.CoreCompileInputs.cache
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Shared\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.dll
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Shared\obj\Debug\net6.0\refint\ProyectoFinalSeguridadAR.Shared.dll
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Shared\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Shared.pdb
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Shared\obj\Debug\net6.0\ref\ProyectoFinalSeguridadAR.Shared.dll
