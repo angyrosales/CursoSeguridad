@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z7vjhU5ZP0itMeaZSSaDVjRHOHBOI7LDX1QvcZ7c/qhNvkUh4SPNND4W6ec33TsF16XNrws9mTWtGNEvHJ0Lvg==",
+  "dgSpecHash": "Hh1ZQkLdgw0OrvxBV5YqnpM/wRlpMK3/vwCOYgitSwxqLHMo07+WnnD0I1SGgYeuYf9DrzMbjQdazeqVPDfisA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arosales\\source\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\ProyectoFinalSeguridadAR.Client.csproj",
+  "projectFilePath": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\ProyectoFinalSeguridadAR.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arosales\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.12\\microsoft.aspnetcore.authorization.7.0.12.nupkg.sha512",
     "C:\\Users\\arosales\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.12\\microsoft.aspnetcore.components.7.0.12.nupkg.sha512",

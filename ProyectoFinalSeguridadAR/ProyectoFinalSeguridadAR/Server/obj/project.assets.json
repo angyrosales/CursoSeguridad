@@ -1274,11 +1274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arosales\\source\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Server\\ProyectoFinalSeguridadAR.Server.csproj",
+      "projectUniqueName": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Server\\ProyectoFinalSeguridadAR.Server.csproj",
       "projectName": "ProyectoFinalSeguridadAR.Server",
-      "projectPath": "C:\\Users\\arosales\\source\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Server\\ProyectoFinalSeguridadAR.Server.csproj",
+      "projectPath": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Server\\ProyectoFinalSeguridadAR.Server.csproj",
       "packagesPath": "C:\\Users\\arosales\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arosales\\source\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Server\\obj\\",
+      "outputPath": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1306,11 +1306,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\arosales\\source\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\ProyectoFinalSeguridadAR.Client.csproj": {
-              "projectPath": "C:\\Users\\arosales\\source\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\ProyectoFinalSeguridadAR.Client.csproj"
+            "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\ProyectoFinalSeguridadAR.Client.csproj": {
+              "projectPath": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Client\\ProyectoFinalSeguridadAR.Client.csproj"
             },
-            "C:\\Users\\arosales\\source\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj": {
-              "projectPath": "C:\\Users\\arosales\\source\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj"
+            "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj": {
+              "projectPath": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj"
             }
           }
         }

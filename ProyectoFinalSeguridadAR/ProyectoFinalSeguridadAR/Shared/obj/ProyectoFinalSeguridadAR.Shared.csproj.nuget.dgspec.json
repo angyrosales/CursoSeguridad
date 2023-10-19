@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arosales\\source\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj": {}
+    "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arosales\\source\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj": {
+    "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arosales\\source\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj",
         "projectName": "ProyectoFinalSeguridadAR.Shared",
-        "projectPath": "C:\\Users\\arosales\\source\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj",
+        "projectPath": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\ProyectoFinalSeguridadAR.Shared.csproj",
         "packagesPath": "C:\\Users\\arosales\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arosales\\source\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\ProyectoFinalSeguridadAR\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
