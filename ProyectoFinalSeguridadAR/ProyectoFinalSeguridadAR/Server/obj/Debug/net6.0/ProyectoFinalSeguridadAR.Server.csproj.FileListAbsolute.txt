@@ -1,3 +1,11 @@
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.csproj.AssemblyReference.cache
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.AssemblyInfoInputs.cache
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.AssemblyInfo.cs
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.csproj.CoreCompileInputs.cache
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.RazorAssemblyInfo.cache
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.RazorAssemblyInfo.cs
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\bin\Debug\net6.0\ProyectoFinalSeguridadAR.Client.staticwebassets.runtime.json
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\bin\Debug\net6.0\appsettings.json
@@ -27,14 +35,6 @@ C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\Proyecto
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\bin\Debug\net6.0\ProyectoFinalSeguridadAR.Client.dll
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\bin\Debug\net6.0\ProyectoFinalSeguridadAR.Client.pdb
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.csproj.AssemblyReference.cache
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.AssemblyInfoInputs.cache
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.AssemblyInfo.cs
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.csproj.CoreCompileInputs.cache
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.RazorAssemblyInfo.cache
-C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.RazorAssemblyInfo.cs
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoFinalSeguridadAR.Server.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoFinalSeguridadAR.Server.props
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoFinalSeguridadAR.Server.props

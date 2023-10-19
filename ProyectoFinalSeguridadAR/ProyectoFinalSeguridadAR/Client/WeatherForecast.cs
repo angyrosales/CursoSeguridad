@@ -1,4 +1,6 @@
-﻿namespace ProyectoFinalSeguridadAR.Client
+﻿using System;
+
+namespace ProyectoFinalSeguridadAR.Client
 {
     public class WeatherForecast
     {

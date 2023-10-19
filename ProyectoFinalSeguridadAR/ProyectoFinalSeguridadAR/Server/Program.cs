@@ -1,4 +1,7 @@
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.ResponseCompression;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 
 namespace ProyectoFinalSeguridadAR
 {
@@ -33,7 +36,6 @@ namespace ProyectoFinalSeguridadAR
             app.UseStaticFiles();
 
             app.UseRouting();
-
 
             app.MapRazorPages();
             app.MapControllers();
