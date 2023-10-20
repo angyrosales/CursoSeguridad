@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="6.0.23" />
+	  <PackageReference Include="Microsoft.Build" Version="14.3.0" ExcludeAssets="runtime" />
   </ItemGroup>
 
   <ItemGroup>
