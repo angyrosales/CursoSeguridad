@@ -1,6 +1,0 @@
-projectKey=ProyectoFinalAngyRosales
-serverUrl=http://18.222.178.31:9000
-serverVersion=9.9.0.65466
-dashboardUrl=http://18.222.178.31:9000/dashboard?id=ProyectoFinalAngyRosales
-ceTaskId=AYtJ0noBjPKjMqxJW0K3
-ceTaskUrl=http://18.222.178.31:9000/api/ce/task?id=AYtJ0noBjPKjMqxJW0K3
