@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "BouncyCastle.Cryptography/2.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/BouncyCastle.Cryptography.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/BouncyCastle.Cryptography.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authorization/6.0.23": {
         "type": "package",
         "dependencies": {
@@ -516,6 +529,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "BouncyCastle.Cryptography": "2.2.1",
           "Microsoft.AspNetCore.Components.WebAssembly": "6.0.23"
         },
         "compile": {
@@ -528,6 +542,26 @@
     }
   },
   "libraries": {
+    "BouncyCastle.Cryptography/2.2.1": {
+      "sha512": "A6Zr52zVqJKt18ZBsTnX0qhG0kwIQftVAjLmszmkiR/trSp8H+xj1gUOzk7XHwaKgyREMSV1v9XaKrBUeIOdvQ==",
+      "type": "package",
+      "path": "bouncycastle.cryptography/2.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "bouncycastle.cryptography.2.2.1.nupkg.sha512",
+        "bouncycastle.cryptography.nuspec",
+        "lib/net461/BouncyCastle.Cryptography.dll",
+        "lib/net461/BouncyCastle.Cryptography.xml",
+        "lib/net6.0/BouncyCastle.Cryptography.dll",
+        "lib/net6.0/BouncyCastle.Cryptography.xml",
+        "lib/netstandard2.0/BouncyCastle.Cryptography.dll",
+        "lib/netstandard2.0/BouncyCastle.Cryptography.xml",
+        "packageIcon.png"
+      ]
+    },
     "Microsoft.AspNetCore.Authorization/6.0.23": {
       "sha512": "UYIAxf8BOH4x70tJLUSTCMuW1TdVpGjfWUeyQ8CfwP4HPME1hWqog9zxpjXGAVkXLSdQlkyb2YT+VjlOlhTSXw==",
       "type": "package",
@@ -1233,7 +1267,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Progress\\Telerik UI for Blazor 4.6.0": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.309\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.310\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://nuget.telerik.com/nuget": {}
       },
@@ -1281,7 +1315,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.309\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.310\\RuntimeIdentifierGraph.json"
       }
     }
   }

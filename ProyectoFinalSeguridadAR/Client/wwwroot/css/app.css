@@ -62,3 +62,7 @@ a, .btn-link {
     .blazor-error-boundary::after {
         content: "An error has occurred."
     }
+
+div.swal2-container.swal2-center.swal2-shown {
+    z-index: 5060;
+}

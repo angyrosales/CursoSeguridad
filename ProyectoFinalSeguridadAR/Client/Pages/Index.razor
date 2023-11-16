@@ -1,9 +1,88 @@
 ﻿@page "/"
+@using ProyectoFinalSeguridadAR.Client.Helpers;
+@inject IJSRuntime js
+@inject IMostrarMensajes mostrarMensajes
+@inject HttpClient Http
+@inject NavigationManager NavManager
 
-<PageTitle>Index</PageTitle>
+<div class="box-content">
+    <h4>Registro de metodo de Pago</h4>
+    <br />
+    <EditForm Model="Usuario" OnValidSubmit="@GuardarAsync" >
+        <DataAnnotationsValidator />
+        @*<div class="k-validation-summary k-messagebox k-messagebox-error p-0" role="alert">
+            <ValidationSummary />
+        </div>*@
+        <div class="row mb-md">
+            <div class="col-4 mb-sm">
+                <label for="name">Nombre Completo</label>
+                <br />
+                <InputText Name="name"  TabIndex="1" Id="name" Width="180px" @bind-Value="@Usuario.Nombre"></InputText>
+                <ValidationMessage For="@(() => Usuario.Nombre)" />
+            </div>
+        </div>
+        <br />
+        <div class="row mb-md">
+            <div class="col-4">
+                <label for="edad">Edad</label>
+                <br />
+                <InputNumber Name="edad"  TabIndex="2" InputMode="edad" Id="edad" Width="180px" @bind-Value="@Usuario.Edad"></InputNumber>
+                <ValidationMessage For="@(() => Usuario.Edad)" />
+            </div>
+        </div>
+        <br />
+        <div class="row mb-md">
+            <div class="col-4">
+                <label for="email">Email</label>
+                <br />
+                <InputText Name="email" Placeholder="ejemplo@ejemplo.com" TabIndex="3" InputMode="email" Id="email" Width="180px" @bind-Value="@Usuario.Email"></InputText>
+                <ValidationMessage For="@(() => Usuario.Email)" />
+            </div>
+        </div>
+        <br />
+        <div class="row mb-md">
+            <div class="col-4">
+                <label for="email">Confirmar Email</label>
+                <br />
+                <InputText Name="confirmaremail" Placeholder="ejemplo@ejemplo.com" TabIndex="4" InputMode="confirmaremail" Id="confirmaremail" Width="180px" @bind-Value="@Usuario.RepetirEmail"></InputText>
+                <ValidationMessage For="@(() => Usuario.RepetirEmail)" />
+            </div>
+        </div>
+        <br /> 
+        <div class="row mb-md">
+            <div class="col-4">
+                <label for="telefono">Telefono</label>
+                <br />
+                <InputText Name="telefono" TabIndex="5" InputMode="telefono" Id="telefono" Width="180px" @bind-Value="@Usuario.Telefomo"></InputText>
+                <ValidationMessage For="@(() => Usuario.Telefomo)" />
+            </div>
+        </div>
+        <br />
+        <div class="row mb-md">
+            <div class="col-4">
+                <label for="tarjeta">Tarjeta</label>
+                <br />
+                <InputText Name="tarjeta" TabIndex="6" InputMode="tarjeta" Id="tarjeta" Width="180px" @bind-Value="@Usuario.Tarjeta" @oninput="ActualizarMascara"></InputText>
+                <ValidationMessage For="@(() => Usuario.Tarjeta)" />
+            </div>
+        </div>
+        <br />
+        <br />
+         <div class="row mb-md">
+            <div class="col-4">
+                <button Class="k-button-solid-primary"  TabIndex="2">Procesar Pago</button>
+            </div>
+        </div>
+    </EditForm>
+</div>
 
-<h1>Hello, world!</h1>
+<style>
+    .box-content {
+        max-width: 600px;
+        margin: 0 auto;
+    }
 
-Welcome to your new app.
-
-<SurveyPrompt Title="How is Blazor working for you?" />
+    label {
+        width: 100%;
+    }
+</style>

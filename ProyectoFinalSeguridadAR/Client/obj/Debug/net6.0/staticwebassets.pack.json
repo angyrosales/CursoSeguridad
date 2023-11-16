@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\Client\\wwwroot\\js\\actualizarMascara.js",
+      "PackagePath": "staticwebassets\\js\\actualizarMascara.js"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProyectoFinalSeguridadAR.Client.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

@@ -100,3 +100,4 @@ C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\Server\o
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.pdb
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ProyectoFinalSeguridadAR.Server.genruntimeconfig.cache
 C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\Server\obj\Debug\net6.0\ref\ProyectoFinalSeguridadAR.Server.dll
+C:\Users\arosales\source\GitHub\CursoSeguridad\ProyectoFinalSeguridadAR\Server\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
