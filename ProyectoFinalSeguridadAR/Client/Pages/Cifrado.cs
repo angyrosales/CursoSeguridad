@@ -14,7 +14,7 @@ namespace ProyectoFinalSeguridadAR.Client.Pages
     {
         public static byte[] GenerateRandomKey()
         {
-            KeyGenerationParameters keyGenParam = new (new SecureRandom(), 256);
+            KeyGenerationParameters keyGenParam = new(new SecureRandom(), 256);
             CipherKeyGenerator generator = GeneratorUtilities.GetKeyGenerator("AES");
             generator.Init(keyGenParam);
 
@@ -23,7 +23,7 @@ namespace ProyectoFinalSeguridadAR.Client.Pages
 
         public static byte[] GenerateRandomIV()
         {
-            SecureRandom random = new ();
+            SecureRandom random = new();
             byte[] iv = new byte[16];
             random.NextBytes(iv);
 
@@ -31,20 +31,23 @@ namespace ProyectoFinalSeguridadAR.Client.Pages
         }
         public static byte[] EncryptStringToBytes(string input, byte[] key, byte[] iv)
         {
-            byte[] inputBytes = Encoding.UTF8.GetBytes(input);
-
             IBlockCipherPadding padding = new ZeroBytePadding();
             BufferedBlockCipher cipher = new PaddedBufferedBlockCipher(new KCtrBlockCipher(new AesEngine()), padding);
 
             cipher.Init(true, new ParametersWithIV(new KeyParameter(key), iv));
 
+            byte[] inputBytes = Encoding.UTF8.GetBytes(input);
             byte[] outputBytes = new byte[cipher.GetOutputSize(inputBytes.Length)];
-            int length = cipher.ProcessBytes(inputBytes, outputBytes, 0);
-            cipher.DoFinal(outputBytes, length);
+            int length = cipher.ProcessBytes(inputBytes, 0, inputBytes.Length, outputBytes, 0);
+            length += cipher.DoFinal(outputBytes, length);
 
-            return outputBytes;
+            // Asegúrate de devolver solo los bytes válidos
+            byte[] result = new byte[length];
+            Array.Copy(outputBytes, result, length);
+
+            return result;
         }
-        public  static string DecryptBytesToString(byte[] inputBytes, byte[] key, byte[] iv)
+        public static string DecryptBytesToString(byte[] inputBytes, byte[] key, byte[] iv)
         {
             IBlockCipherPadding padding = new ZeroBytePadding();
             BufferedBlockCipher cipher = new PaddedBufferedBlockCipher(new KCtrBlockCipher(new AesEngine()), padding);
@@ -52,10 +55,10 @@ namespace ProyectoFinalSeguridadAR.Client.Pages
             cipher.Init(false, new ParametersWithIV(new KeyParameter(key), iv));
 
             byte[] outputBytes = new byte[cipher.GetOutputSize(inputBytes.Length)];
-            int length = cipher.ProcessBytes(inputBytes, outputBytes, 0);
-            cipher.DoFinal(outputBytes, length);
+            int length = cipher.ProcessBytes(inputBytes, 0, inputBytes.Length, outputBytes, 0);
+            length += cipher.DoFinal(outputBytes, length);
 
-            return Encoding.UTF8.GetString(outputBytes);
+            return Encoding.UTF8.GetString(outputBytes, 0, length);
         }
     }
 }

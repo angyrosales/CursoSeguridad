@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6XnU8k+75d+pBUKcHvZh2WDM/DwYCYaszRYQmRMvpiQsbox0NG6slkQ5E9AjyesNhs6oHb081VIbHm/jrwLX+A==",
+  "dgSpecHash": "1E5otJ3NvMbYrOAaADuAmi4lI3tZ2O3RSkMgglANMFGvw9TNnXz4vOMaWzdJICvGb++90SYu5jXnaCsUBFP3CA==",
   "success": true,
   "projectFilePath": "C:\\Users\\arosales\\source\\GitHub\\CursoSeguridad\\ProyectoFinalSeguridadAR\\Client\\ProyectoFinalSeguridadAR.Client.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,7 @@
     "C:\\Users\\arosales\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\arosales\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\arosales\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\arosales\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.24\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.24.nupkg.sha512"
+    "C:\\Users\\arosales\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.25\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.25.nupkg.sha512"
   ],
   "logs": []
 }
